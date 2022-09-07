@@ -9,13 +9,63 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "traditional_br_coffee_and_more"
+    },
+    {
+      "name": "Coxinha",
+      "type": "food",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coxinha"
+    },
+    {
+      "name": "CoffeeSeeds",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coffee_seeds"
+    },
+    {
+      "name": "CoffeeBeans",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coffee_beans"
+    },
+    {
+      "name": "CoffeePowder",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coffee_powder"
+    },
+    {
+      "name": "Mug",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mug"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "itemGroup.tabtraditional_br_coffee_and_more": "Traditional Br Coffee And More"
+      "item.coffee_beans.name": "Coffee Beans",
+      "item.mug.name": "Mug",
+      "item.coffee_powder.name": "Coffee Powder",
+      "itemGroup.tabtraditional_br_coffee_and_more": "Traditional Br Coffee And More",
+      "item.coffee_seeds.name": "Coffee Seeds",
+      "item.coxinha.name": "Coxinha"
     }
   },
   "foldersRoot": {

@@ -5,9 +5,9 @@ import net.minecraftforge.fml.relauncher.SideOnly;
 import net.minecraftforge.fml.relauncher.Side;
 
 import net.minecraft.item.ItemStack;
-import net.minecraft.init.Items;
 import net.minecraft.creativetab.CreativeTabs;
 
+import net.mcreator.tbcm.item.ItemCoffeeBeans;
 import net.mcreator.tbcm.ElementsTbcmMod;
 
 @ElementsTbcmMod.ModElement.Tag
@@ -22,7 +22,7 @@ public class TabTraditionalBrCoffeeAndMore extends ElementsTbcmMod.ModElement {
 			@SideOnly(Side.CLIENT)
 			@Override
 			public ItemStack getTabIconItem() {
-				return new ItemStack(Items.EXPERIENCE_BOTTLE, (int) (1));
+				return new ItemStack(ItemCoffeeBeans.block, (int) (1));
 			}
 
 			@SideOnly(Side.CLIENT)
