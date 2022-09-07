@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "mug_1"
+      },
+      "name": "default"
+    }
+  }
+}

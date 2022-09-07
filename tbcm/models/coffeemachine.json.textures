@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cupe_coffe_black",
+        "1": "coffee_machine_1"
+      },
+      "name": "default"
+    }
+  }
+}
