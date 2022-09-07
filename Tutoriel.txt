@@ -1,0 +1,45 @@
+Pre requisitos:
+
+Java: A JDK que tiver funcionando serve no geral
+
+Gradle: a mais nova tanka
+
+intalação manual: baixe em https://gradle.org/releases/
+
+coloque a pasta em (qualquer lugar ou) "C:\Program Files\Java\gradle-4.9"
+
+depois configure o path:
+	GRADLE_HOME 
+	C:\Program Files\Java\gradle-5.6.4	
+
+	e em path:
+	%GRADLE_HOME%\bin
+
+Pratica: Tendo os prerequisitos atendidos agora vamos pro rush
+
+(exlui lá o que não é necessario e)
+
+Abra o git bash como adm
+
+"./gradlew genEclipseRuns"
+
+gradlew eclipse
+
+"./gradlew build"
+
+Mudando versões do gradle
+
+./gradlew wrapper --gradle-version <Versão em numeros>
+
+
+build pra lunux: ./gradlew build
+vai gerar uma versão dentro de: build/libs
+
+Testar:joga na tua pasta de mods mesmo
+
+DIREITOS DE USUARIOS QUEBROU MINHAS PERNAS
+
+
+
+
+

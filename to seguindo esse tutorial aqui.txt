@@ -1,0 +1,9 @@
+global
+https://shadowfacts.net/tutorials/forge-modding-112/overview/
+
+onde parei
+https://shadowfacts.net/tutorials/forge-modding-112/main-mod-class/
+
+======================================================
+Forge documentação
+https://mcforge.readthedocs.io/en/1.12.x/
