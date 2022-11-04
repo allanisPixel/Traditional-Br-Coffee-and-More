@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 1,
-    "texture": "mug_1",
+    "texture": "cup_1",
     "customModelName": "mug:default",
-    "name": "Mug",
+    "name": "Mug 1",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:TraditionalBrCoffeeAndMore"
@@ -24,7 +24,9 @@
     "damageOnCrafting": false,
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
-    "specialInfo": [],
+    "specialInfo": [
+      "it's a cute mug."
+    ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,

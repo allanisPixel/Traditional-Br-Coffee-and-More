@@ -47,13 +47,40 @@
       "registry_name": "coffee_powder"
     },
     {
-      "name": "Mug",
+      "name": "Mug1",
       "type": "item",
       "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "mug"
+      "registry_name": "mug_1"
+    },
+    {
+      "name": "BlackCoffee",
+      "type": "food",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_coffee"
+    },
+    {
+      "name": "CoffeeLatte",
+      "type": "food",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coffee_latte"
+    },
+    {
+      "name": "CoffeeMacchiato",
+      "type": "food",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coffee_macchiato"
     }
   ],
   "variable_elements": [],
@@ -61,11 +88,14 @@
   "language_map": {
     "en_us": {
       "item.coffee_beans.name": "Coffee Beans",
-      "item.mug.name": "Mug",
       "item.coffee_powder.name": "Coffee Powder",
       "itemGroup.tabtraditional_br_coffee_and_more": "Traditional Br Coffee And More",
+      "item.mug_1.name": "Mug 1",
+      "item.coffee_macchiato.name": "Coffee Macchiato",
       "item.coffee_seeds.name": "Coffee Seeds",
-      "item.coxinha.name": "Coxinha"
+      "item.coffee_latte.name": "Coffee Latte",
+      "item.coxinha.name": "Coxinha",
+      "item.black_coffee.name": "Black Coffee"
     }
   },
   "foldersRoot": {

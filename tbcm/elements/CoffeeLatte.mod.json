@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 1,
+    "texture": "coffee_latte",
+    "customModelName": "mugofcoffeelatte:default",
+    "name": "Coffee Latte",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TraditionalBrCoffeeAndMore"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": "CUSTOM:Mug1"
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "drink",
+    "hasGlow": false
+  }
+}

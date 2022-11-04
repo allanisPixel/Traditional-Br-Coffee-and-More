@@ -2,7 +2,7 @@
   "mappings": {
     "default": {
       "map": {
-        "1": "mug_1"
+        "0": "cup_1"
       },
       "name": "default"
     }
