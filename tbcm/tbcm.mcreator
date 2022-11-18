@@ -81,6 +81,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "coffee_macchiato"
+    },
+    {
+      "name": "CoofeePlant",
+      "type": "plant",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coofee_plant"
     }
   ],
   "variable_elements": [],
@@ -91,6 +100,7 @@
       "item.coffee_powder.name": "Coffee Powder",
       "itemGroup.tabtraditional_br_coffee_and_more": "Traditional Br Coffee And More",
       "item.mug_1.name": "Mug 1",
+      "tile.coofee_plant.name": "Coofee Plant",
       "item.coffee_macchiato.name": "Coffee Macchiato",
       "item.coffee_seeds.name": "Coffee Seeds",
       "item.coffee_latte.name": "Coffee Latte",

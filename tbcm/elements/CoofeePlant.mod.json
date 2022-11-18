@@ -1,0 +1,69 @@
+{
+  "_fv": 18,
+  "_type": "plant",
+  "definition": {
+    "renderType": 13,
+    "texture": "plant",
+    "textureBottom": "",
+    "customModelName": "Crop model",
+    "itemTexture": "coffee_beans",
+    "particleTexture": "plant",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "growapable",
+    "staticPlantGenerationType": "Flower",
+    "growapableSpawnType": "Crop",
+    "growapableMaxHeight": 2,
+    "doublePlantGenerationType": "Flower",
+    "customBoundingBox": false,
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 0.0,
+        "my": 0.0,
+        "mz": 0.0,
+        "Mx": 16.0,
+        "My": 16.0,
+        "Mz": 16.0,
+        "subtract": false
+      }
+    ],
+    "name": "Coofee Plant",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TraditionalBrCoffeeAndMore"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "useLootTableForDrops": false,
+    "customDrop": {
+      "value": "CUSTOM:CoffeeSeeds"
+    },
+    "dropAmount": 3,
+    "forceTicking": false,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": "CUSTOM:CoffeeSeeds"
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "WALKABLE",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "jumpFactor": 1.0,
+    "speedFactor": 1.0,
+    "canBePlacedOn": [],
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": []
+  }
+}
