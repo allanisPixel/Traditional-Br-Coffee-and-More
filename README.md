@@ -11,6 +11,7 @@ The mod is a mix of Brazilian coffees and foods and other not-so-Brazilian thing
 
 Coffee
 - %10  Coffee seeds
+- % 0  Coffee Plant
 - %50  Coffee beans
 - %50  Coffee pownder
 - %25  Black Coffee (Strong, double coffee, the favorite of Brazilians)
