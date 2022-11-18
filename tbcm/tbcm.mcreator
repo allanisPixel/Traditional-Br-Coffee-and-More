@@ -90,6 +90,39 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "coofee_plant"
+    },
+    {
+      "name": "CoffeeSeedsQuandoClicarComOBotaoDireitoNoBloco",
+      "type": "procedure",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coffee_seeds_quando_clicar_com_o_botao_direito_no_bloco",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
