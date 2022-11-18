@@ -15,7 +15,7 @@
     },
     "stackSize": 64,
     "nutritionalValue": 4,
-    "saturation": 0.3,
+    "saturation": 1.0,
     "eatingSpeed": 32,
     "resultItem": {
       "value": "CUSTOM:Mug1"

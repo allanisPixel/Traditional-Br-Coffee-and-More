@@ -36,7 +36,7 @@ public class ItemBlackCoffee extends ElementsTbcmMod.ModElement {
 	}
 	public static class ItemFoodCustom extends ItemFood {
 		public ItemFoodCustom() {
-			super(4, 0.3f, false);
+			super(4, 1f, false);
 			setUnlocalizedName("black_coffee");
 			setRegistryName("black_coffee");
 			setAlwaysEdible();

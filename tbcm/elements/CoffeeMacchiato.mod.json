@@ -4,7 +4,7 @@
   "definition": {
     "renderType": 1,
     "texture": "coffee_cream",
-    "customModelName": "mugofcoffeecreem:default",
+    "customModelName": "cupofcoffeecreem:default",
     "name": "Coffee Macchiato",
     "rarity": "COMMON",
     "specialInfo": [],
@@ -13,7 +13,7 @@
     },
     "stackSize": 64,
     "nutritionalValue": 4,
-    "saturation": 0.3,
+    "saturation": 2.0,
     "eatingSpeed": 32,
     "resultItem": {
       "value": "CUSTOM:Mug1"
