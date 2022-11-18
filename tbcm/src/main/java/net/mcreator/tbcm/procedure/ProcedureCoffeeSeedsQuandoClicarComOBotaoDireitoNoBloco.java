@@ -56,7 +56,7 @@ public class ProcedureCoffeeSeedsQuandoClicarComOBotaoDireitoNoBloco extends Ele
 						&& ((world.getBlockState(new BlockPos((int) x, (int) (y + 1), (int) z))).getBlock() == Blocks.AIR.getDefaultState()
 								.getBlock())))) {
 			world.setBlockToAir(new BlockPos((int) x, (int) (y + 1), (int) z));
-			world.setBlockState(new BlockPos((int) x, (int) y, (int) z), Blocks.POTATOES.getDefaultState(), 3);
+			world.setBlockState(new BlockPos((int) x, (int) (y + 1), (int) z), Blocks.POTATOES.getDefaultState(), 3);
 			if (true) {
 				if (entity instanceof EntityPlayer)
 					((EntityPlayer) entity).inventory.clearMatchingItems(
